@@ -1,4 +1,4 @@
-(ns electric-starter-app.server-jetty
+(ns app.server-jetty
   "Electric integrated into a sample ring + jetty app."
   (:require
    [clojure.edn :as edn]
